@@ -6,8 +6,7 @@ public class firstprogram {
 	System.out.println("i'm first program");
 	System.out.println("i'm first program");
 	System.out.println("i'm first program");
-	System.out.println("i'm first program");
-
+	
 	}
 
 }
